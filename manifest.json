@@ -1,0 +1,11 @@
+﻿{
+    "engineVersion":  "hongguo-helper-0.3.14",
+    "source":  "%LOCALAPPDATA%\\HongguoWinUI\\current\\engine",
+    "capturedAt":  "2026-11-07T09:17:31Z",
+    "layout":  [
+                   "lib/*.jar",
+                   "signer/*.jar"
+               ],
+    "jars":  39,
+    "bytes":  17587786
+}

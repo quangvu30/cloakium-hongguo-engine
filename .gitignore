@@ -1,0 +1,6 @@
+# Only the platform-independent jars belong here.
+runtime/
+ffmpeg/
+lib/native/
+*.log
+.DS_Store
